@@ -1,0 +1,20 @@
+body{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+header{
+    margin-top: 30px;
+}
+
+nav{
+    background: teal;
+    color: white;
+}
+
+h1{
+    color: teal;
+    font-family: sans-serif;
+}
+img{
+    margin-bottom: 20px;
+}
